@@ -1,9 +1,15 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
 .grid {
   display: flex;
   flex-wrap: wrap;
   height: 300px;
   width: 900px;
   background: red;
+
 }
 
 img {
